@@ -3,7 +3,7 @@
 Final project for the **SAA25-S1 – AWS Solutions Architect** program.
 This repository documents a highly available, secure and scalable cloud architecture for an **appointment booking platform for a multi-specialty medical clinic**, used by patients and clinic staff.
 
-![Architecture](docs/architecture.png)
+![Architecture](architecture.png)
 
 > The editable diagram is available at [`/aws-architecture.drawio`](diagram/aws-architecture.drawio) (open with [draw.io](https://app.diagrams.net)).
 

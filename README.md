@@ -92,7 +92,7 @@ The platform is deployed in a single AWS Region inside one VPC (`10.0.0.0/16`) s
 - **Network isolation:** application and database tiers live only in private subnets; databases are in dedicated data subnets with no route to the internet.
 - **Encryption at rest:** RDS, ElastiCache, S3 and SQS encrypted with **KMS**.
 - **Encryption in transit:** TLS everywhere (CloudFront, API Gateway, ALB, RDS, S3).
-- **Least privilege:** dedicated IAM roles per workload (see [`policies/policies.json`](policies/policies.json)).
+- **Least privilege:** dedicated IAM roles per workload (see [`policies.json`](policies.json)).
 - **Auditing:** CloudTrail records account activity for compliance and investigation.
 - **Private service access:** VPC endpoints avoid sending service traffic over the public internet.
 

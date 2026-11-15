@@ -5,7 +5,7 @@ This repository documents a highly available, secure and scalable cloud architec
 
 ![Architecture](docs/architecture.png)
 
-> The editable diagram is available at [`diagram/aws-architecture.drawio`](diagram/aws-architecture.drawio) (open with [draw.io](https://app.diagrams.net)).
+> The editable diagram is available at [`main/aws-architecture.drawio`](diagram/aws-architecture.drawio) (open with [draw.io](https://app.diagrams.net)).
 
 ---
 

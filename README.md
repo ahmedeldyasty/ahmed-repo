@@ -128,7 +128,6 @@ Resource names are prefixed with `clinic-` so the policies match without editing
 ```
 .
 ├── README.md              # English documentation
-├── README.ar.md           # Arabic documentation
 ├── docs/
 │   └── architecture.png   # Architecture diagram (image)
 ├── diagram/

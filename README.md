@@ -110,7 +110,7 @@ The platform is deployed in a single AWS Region inside one VPC (`10.0.0.0/16`) s
 4. **EventBridge** triggers Lambda on a schedule to send appointment reminders.
 
 ## IAM Policies
-All policies are in [`policies/policies.json`](policies/policies.json). They follow the principle of least privilege and cover:
+All policies are in [`policies.json`](policies.json). They follow the principle of least privilege and cover:
 
 | Policy | Attached to | Purpose |
 |--------|-------------|---------|
